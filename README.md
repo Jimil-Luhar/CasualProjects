@@ -8,13 +8,17 @@
 #Tic Tac Toe;
 
 ->Implemented in Python.
+
 ->Play against the computer or another player.
+
 ->Simple command-line interface.
 
 #Snake Game;
 
 ->It is implemented in HTML Canvas and JavaScript.
+
 ->Control a snake to eat food and grow.
+
 ->Increase speed with score.
 
 
