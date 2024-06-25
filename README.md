@@ -15,7 +15,7 @@
 
 #Snake Game;
 
-->It is implemented in HTML Canvas and JavaScript.
+->It is implemented in HTML CSS and JavaScript.
 
 ->Control a snake to eat food and grow.
 
