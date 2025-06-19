@@ -1,6 +1,6 @@
-*TECHNO-HIVE* by **Jimil**:
+*CasualProjects* by **Jimil**:
 
-->Welcome to TechnoHive, a repository containing various small projects implemented using PYTHON, HTML, JAVASCRIPT, and many other languages.
+->Welcome to CasualProjects, a repository containing various small projects implemented using PYTHON, HTML, JAVASCRIPT, and many other languages.
 
 
 *PROJECTS INCLUDED:*
